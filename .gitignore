@@ -147,3 +147,12 @@ env36/
 
 # dataflows checkpoints
 .checkpoints/
+
+
+# IDES and text editors
+
+.vscode
+.idea
+
+# Data files
+*.tsv
